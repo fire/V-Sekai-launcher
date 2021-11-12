@@ -25,4 +25,5 @@ theme/use_hidpi=true
 [rendering]
 
 driver/driver_name="opengl3"
-environment/defaults/default_environment="res://default_env.tres"
+textures/vram_compression/import_bptc=true
+textures/vram_compression/import_etc=true
