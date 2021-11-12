@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://bg7tam2fitvap"]
+
+[node name="Node2D" type="Control"]
+__meta__ = {
+"_edit_use_anchors_": false
+}
