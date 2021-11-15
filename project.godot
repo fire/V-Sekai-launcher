@@ -24,6 +24,5 @@ theme/use_hidpi=true
 
 [rendering]
 
-driver/driver_name="opengl3"
 textures/vram_compression/import_bptc=true
 textures/vram_compression/import_etc=true
